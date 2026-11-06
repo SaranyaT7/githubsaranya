@@ -11,3 +11,7 @@ This change is not yet complete.
 #Version 1.0 Release
 
 Documentation completed.
+
+#Version 2.0 Release
+
+Additional Improvements

@@ -16,6 +16,11 @@ Documentation completed.
 
 Additional Improvements
 
+#GitHub Change
+
+This line was added directly in GitHub.
+
 #Local Change
 
 This line was added in Notepad++
+
